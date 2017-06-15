@@ -14,6 +14,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Gabriel Garcia",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gafopi/convo-integrator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gafopi/convo-integrator/issues"
+  },
+  "homepage": "https://github.com/gafopi/convo-integrator#readme"
 }
